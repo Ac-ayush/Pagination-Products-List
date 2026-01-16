@@ -1,14 +1,14 @@
 # Pagination-Products-List
 
-- Simple pagination to list all the item page wise on UI side.
-- Backend sending response in one go(more than 200 items).
-- Left & Right button is there.
-- Disabling left & right buttons when reaching on the first & last page.
-- Page Numbers are clickable (navigate to any page).
-- Code is well structured.
-- Components are isolated & following Single responsibility.
-- Optimised Re-rendering.
-- Optimised Components & Calculations.
+- Simple pagination to list all items page-wise on the UI.
+- Backend sends the complete response in a single request (200+ items).
+- Left and Right navigation buttons are provided.
+- Left and Right buttons are disabled on the first and last pages respectively.
+- Page numbers are clickable, allowing navigation to any page.
+- Code is well-structured.
+- Components are isolated and follow the Single Responsibility Principle.
+- Optimized re-rendering.
+- Optimized components and calculations.
 
 
 ### First Page
